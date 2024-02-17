@@ -7,6 +7,9 @@
     <layoutAssignments>
         <layout>candidate__c-candidate Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>hemanth__c-hemanth Layout</layout>
+    </layoutAssignments>
     <tabVisibilities>
         <tab>candidate__c</tab>
         <visibility>DefaultOn</visibility>
