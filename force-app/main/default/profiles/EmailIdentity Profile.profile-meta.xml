@@ -10,6 +10,9 @@
     <layoutAssignments>
         <layout>hemanth__c-hemanth Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>payment_order__c-payment_order Layout</layout>
+    </layoutAssignments>
     <tabVisibilities>
         <tab>candidate__c</tab>
         <visibility>Hidden</visibility>

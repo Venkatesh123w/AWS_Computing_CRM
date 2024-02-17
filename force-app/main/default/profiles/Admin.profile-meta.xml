@@ -10,6 +10,9 @@
     <layoutAssignments>
         <layout>hemanth__c-hemanth Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>payment_order__c-payment_order Layout</layout>
+    </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -35,6 +38,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>hemanth__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>payment_order__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <tabVisibilities>
